@@ -1,0 +1,37 @@
+Node
+Turn it off then turn it on.
+What is wrong with your phone?
+Node 3
+Node_1
+It doesn't turn on.
+Is it charged?
+Node_2
+Speakers don't work.
+Does phone connected to any other wire/less speaker?
+Node_3
+Camera doesn't turn on.
+Can you switch between different record types, such as slow motion video or portrait photo?
+Node_1 2
+Node_1.1
+Yes.
+Press home button, lock button and volume up button for 6 seconds. If does't turn on take it to technician.
+Node_1.2
+Not sure.
+Plug it in for 5 minutes with working cable and adapter and tr to turn it on again.
+Node_2 3 (Parent)
+Node_2.1
+Yes
+Disconnect the speaker and try again.
+Node_2.2
+No
+Go to general settings and reset speaker settings.
+Node_2.3
+Not Sure
+Go to sound general settings and see if there is any unknown speaker name presented.
+Node_3 2 (Parent)
+Node_3.1
+Yes
+Take it to professional technician.
+Node_3.2
+No
+Close the Camera application and open it again.
