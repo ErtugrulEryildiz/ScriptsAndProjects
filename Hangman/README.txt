@@ -1,0 +1,1 @@
+Every file must be directly in the src folder in order for game to work properly.
